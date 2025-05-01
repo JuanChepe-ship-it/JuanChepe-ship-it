@@ -19,7 +19,7 @@ I'm a developer in training, passionate about technology, web development, and c
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
-<h4> Other Tools </h4>
+<h4> Softwares and Tools </h4>
 <span>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </span>
