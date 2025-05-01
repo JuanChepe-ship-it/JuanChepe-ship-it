@@ -30,6 +30,6 @@ I'm a developer in training, passionate about technology, web development, and c
 <a href="https://www.instagram.com/jjcs_chepe_/">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="">
+<a href="https://www.tiktok.com/@juan.jos449">
  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
