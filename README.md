@@ -11,15 +11,13 @@ I enjoy building projects that solve real-world problems and improving my skills
 
 <!-- Tecnologías que estás aprendiendo -->
 - 🌱 I’m currently learning:
-  - JavaScript
-  - Python
+  - Html
+  - Css
   - Git/GitHub
-
 <!-- Intereses actuales sin profundizar mucho en temas que aún estás conociendo -->
 - 💡 I’m interested in:
   - Frontend development
   - Learning about mobile development and AI basics
-
 <!-- Información adicional y contacto -->
 - 📦 I work on personal and educational projects — feel free to explore my repositories.
 - ⚡ Fun fact: I often code while listening to lo-fi beats or bands like **The Neighbourhood** and **Godspeed You! Black Emperor**.
