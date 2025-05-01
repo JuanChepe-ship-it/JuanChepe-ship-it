@@ -27,9 +27,9 @@ I'm a developer in training, passionate about technology, web development, and c
 
 ## Check out my Social Media
 
-<a href="https://www.instagram.com/jjcs_chepe_/" target="_blank">
+<a href="https://www.instagram.com/jjcs_chepe_/">
  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
-<a href="" target="_blank">
+<a href="">
  <img src="https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white">
 </a>
