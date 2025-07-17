@@ -44,6 +44,7 @@ I enjoy building projects that solve real-world problems and improving my skills
 </h4>
 <span>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
 </span>
 
 <!-- Base de datos -->
