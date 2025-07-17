@@ -6,22 +6,21 @@
 <img align="right" src="https://github.com/I-am-vishalmaurya/I-am-vishalmaurya/blob/main/cropped_image.png" alt="Unfortunately I didn't find the author of the pic, feel to open a pull request if found" width="340" />
 
 <!-- Descripción personal -->
-I'm a developer in training, passionate about technology, web development, and continuous learning.  
-I enjoy building projects that solve real-world problems and improving my skills every day.
+I’m a developer focused on learning by doing. I enjoy building things that make sense, that solve problems, and that push my skills forward. I'm especially drawn to web technologies, mobile development, and everything that helps me become a better creator in the tech world.
 
-<!-- Tecnologías que estás aprendiendo -->
-- 🌱 I’m currently learning:
-  - Html
-  - Css
-  - Git/GitHub
-<!-- Intereses actuales sin profundizar mucho en temas que aún estás conociendo -->
-- 💡 I’m interested in:
-  - Frontend development
-  - Learning about mobile development and AI basics
-<!-- Información adicional y contacto -->
-- 📦 I work on personal and educational projects — feel free to explore my repositories.
-- ⚡ Fun fact: I often code while listening to lo-fi beats or bands like **The Neighbourhood** and **Godspeed You! Black Emperor**.
-- 📢 You can reach me at: **jcarosilva740@gmail.com**
+💡 Interests:
+Frontend, mobile UI/UX, backend basics, version control, and exploring the world of AI step by step.
+
+🌱 Currently improving on:
+JavaScript, Python, Git/GitHub, responsive design, and modern web practices.
+
+📦 What you’ll find here:
+Practice projects, personal experiments, and ideas in progress — all part of the journey.
+
+🎧 Fun fact: Most of my code is powered by coffee and lo-fi playlists.
+
+📬 Let’s connect:
+📧 **jcarosilva740@gmail.com**
 
 ### My Skills Include:
 ------
